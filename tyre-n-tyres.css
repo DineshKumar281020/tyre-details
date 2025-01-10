@@ -432,6 +432,45 @@ body {
     height: 250px;
 }
 
+/*TYRE-PATTERNS*/
+
+.tyre-patterns{
+    padding: 0 40px 40px;
+}
+
+.tyre-patterns h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tyre-patterns .content-section{
+    margin-bottom: 30px;
+}
+
+.tyre-patterns .highlight{
+    color: #d40b04;
+    font-weight: bold;
+}
+
+/*TYRE-RFT*/
+
+.tyre-rft{
+    padding: 0 40px 40px;
+}
+
+.tyre-rft h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tyre-rft h3{
+    font-weight: bold;
+}
+
+.tyre-rft .content-section{
+    margin-bottom: 30px;
+}
+
 /*FOOTER*/
 
 .footer {

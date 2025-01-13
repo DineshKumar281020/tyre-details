@@ -471,6 +471,116 @@ body {
     margin-bottom: 30px;
 }
 
+/*TYRE-TIPS*/
+
+.tyre-tips{
+    padding: 0 40px 40px;
+}
+
+.tyre-tips h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tyre-tips h3{
+    font-weight: bold;
+}
+
+.tyre-tips .content-section{
+    margin-bottom: 30px;
+}
+
+.tyre-tips img{
+    max-width: 100%;
+    height: 150px;
+}
+
+/*TYRE-INDEX*/
+
+.tyre-index{
+    padding: 0 40px 40px;
+}
+
+.tyre-index h2{
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.tyre-index table{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+/*TYRE-VALVE*/
+
+.tyre-valve{
+  padding: 0 40px 40px;
+}
+
+.tyre-valve h2{
+  font-weight: bold;
+  margin-bottom: 20px;    
+}
+
+.tyre-valve img{
+  max-width: 100%;
+  height: 150px;
+}
+
+.tyre-valve .content-section{
+    margin-bottom: 30px;
+}
+
+/*TYRE-REPLACEMENT*/
+
+.tyre-replacement{
+    padding: 0 40px 40px;
+}
+
+.tyre-replacement h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tyre-replacement h3{
+    font-weight: bold;
+}
+
+.tyre-replacement .content-section{
+    margin-bottom: 30px;
+}
+
+/*TYRE-RAPID*/
+
+.tyre-rapid{
+    padding: 0 40px 40px;
+}
+
+.tyre-rapid h2{
+   font-weight: bold;
+   margin-bottom: 20px;
+}
+
+.tyre-rapid .content-section{
+    margin-bottom: 30px;
+}
+
+/*TYRE-RADIAL-PRODUCTION*/
+
+.tyre-radial-production{
+    padding: 0 40px 40px;
+}
+
+.tyre-radial-production h2{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.tyre-radial-production .content-section{
+    margin-bottom: 30px;
+}
+
 /*FOOTER*/
 
 .footer {

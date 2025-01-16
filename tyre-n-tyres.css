@@ -730,6 +730,44 @@ body {
     margin-bottom: 30px;
 }
 
+/*TYRE-HANDLING*/
+
+.tyre-handling{
+    padding: 0 40px 40px;
+}
+
+.tyre-handling h2{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.tyre-handling h3{
+    font-weight: bold;
+}
+
+.tyre-handling .content-section{
+    margin-bottom: 30px;
+}
+
+/*TYRE-COMPLAINT*/
+
+.tyre-complaint{
+    padding: 0 40px 40px;
+}
+
+.tyre-complaint h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tyre-complaint h3{
+    font-weight: bold;
+}
+
+.tyre-complaint .content-section{
+    margin-bottom: 30px;
+}
+
 /*FOOTER*/
 
 .footer {

@@ -760,13 +760,199 @@ body {
     margin-bottom: 20px;
 }
 
-.tyre-complaint h3{
+.tyre-complaint h4{
     font-weight: bold;
 }
 
 .tyre-complaint .content-section{
     margin-bottom: 30px;
 }
+
+/*TYRE-BORN*/
+
+ .tyre-born{
+    padding: 0 40px 40px;
+ }
+
+ .tyre-born h2{
+    margin-bottom: 20px;
+    font-weight: bold;
+ }
+
+ .tyre-born h4{
+    font-weight: bold;
+    line-height: 2.5rem;
+ }
+
+ .tyre-born .content-section{
+    margin-bottom: 30px;
+ }
+
+ .tyre-born .highlights{
+    color: #d40b04;
+ }
+
+ /*TYRE-DESIGNATION*/
+
+ .tyre-designation{
+    padding: 0 40px 40px;
+ }
+
+ .tyre-designation h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+ }
+
+ .tyre-designation .custom-table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+
+  .tyre-designation .custom-table th, .custom-table td {
+    width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+  }
+
+  /*TYRE-COLORED*/
+
+  .tyre-colored{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-colored h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-colored h3{
+    font-weight: bold;
+  }
+
+  .tyre-colored .content-section{
+    margin-bottom: 30px;
+  }
+
+  .tyre-colored img{
+    max-width: 100%;
+  }
+
+  /*TYRE-FLAT*/
+
+  .tyre-flat{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-flat h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-flat h3{
+    font-weight: bold;
+  }
+
+  .tyre-flat .content-section{
+    margin-bottom: 30px;
+  }
+
+  /*TYRE-CHAMBER*/
+
+  .tyre-chamber{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-chamber h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-chamber h3{
+    font-weight: bold;
+  }
+
+  .tyre-chamber .content-section{
+    margin-bottom: 30px;
+  }
+
+  .tyre-chamber img{
+    margin-bottom: 20px;
+    max-width: 100%;
+  }
+
+  /*TYRE-DIMENSION*/
+
+  .tyre-dimension{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-dimension h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-dimension h6{
+    font-weight: bold;
+  }
+
+  .tyre-dimension .content-section{
+    margin-bottom: 30px;
+  }
+
+  /*TYRE-BRAKING*/
+
+  .tyre-braking{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-braking h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-braking img{
+    max-width: 100%;
+    height: 300px;
+  }
+
+  /*TYRE-BALANCING*/
+
+  .tyre-balancing{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-balancing h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-balancing h3{
+    font-weight: bold;
+  }
+
+  .tyre-balancing .content-section{
+    margin-bottom: 30px;
+  }
+
+  /*TYRE-ASPECT*/
+
+  .tyre-aspect{
+    padding: 0 40px 40px;
+  }
+
+  .tyre-aspect h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .tyre-aspect img{
+    max-width: 100%;
+    height: 350px;
+  }
+
+
 
 /*FOOTER*/
 
